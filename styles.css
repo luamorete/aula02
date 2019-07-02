@@ -16,3 +16,9 @@ nav a{
     font-size: 20pt;
     text-decoration: none;
 }
+
+header {
+    background-image: url("images/5kages.jpg");
+    background-size: cover;
+    height: 618px;
+}
