@@ -22,3 +22,30 @@ header {
     background-size: cover;
     height: 618px;
 }
+
+section{
+    background-color: #b0946b;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Rubik Mono One', sans-serif;    
+    font-size: 8pt;
+}
+
+div{
+    text-align: center;
+    width: 40%;
+    }
+
+div ul{
+    list-style-image: url("images/ninja.png");
+}
+
+ul li:nth-child(odd){
+    color: white;
+}
+
+h2 {
+    font-family: 'Rubik Mono One', sans-serif;
+    color: #772600;
+    font-size: 15pt;
+}
